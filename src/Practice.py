@@ -1,8 +1,6 @@
 
 print("starting")
 
-list =["apple","banana","orange"]
-for i in range(len(list)):
-    list[i] = list[i].capitalize()
-
+list =[2,3,5,1,4,6]
+list.sort()
 print(list)
