@@ -1,5 +1,5 @@
 
-print("hello world")
+print("starting")
 
 list =["apple","banana","orange"]
 for i in range(len(list)):
